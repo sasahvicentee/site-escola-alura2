@@ -11,8 +11,12 @@
     justify-content: space-around;
     align-items: center;
     padding: 24px 0;
+
+
     }
-    .cabeçalho-imagem { width: 9%
+    .cabeçalho-imagem { 
+        width: 30%
+
     }
     .cabeçalho-lista-item{
         display:inline-block;
