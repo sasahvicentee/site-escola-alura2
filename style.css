@@ -19,7 +19,7 @@
     .cabeçalho-imagem 
     { 
         width: 30%;
-        margin: auto;
+        margin: 0 0 0 --50px;
 
        
     }
