@@ -37,8 +37,8 @@ body{
         
     }
     .escola{
-        background-image: linear-gradient(#159120,#266e46);
-        color:white;
+        background-image: linear-gradient(#266E46,#000000);
+        color:rgb(0, 0, 0);
         display: flex;
         justify-content: center;
         align-items: center;
