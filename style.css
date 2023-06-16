@@ -13,7 +13,7 @@ body{
 .cabeçalho
     {
         background-color: #266e46;
-    color :white;
+    color :rgb(0, 0, 0);
     display:flex;
     justify-content: space-around;
     align-items: center;
