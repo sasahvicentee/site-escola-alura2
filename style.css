@@ -19,16 +19,12 @@ body{
     padding: 24px 0  15px;
     
     }
-
-
-
     .cabeçalho-imagem 
     { 
         width: 30%;
         margin: 0 0 0 -440px;
 
-       
-    }
+     }
     .cabeçalho-lista-item{
         display:inline-block;
         margin:0 16px;
@@ -61,7 +57,7 @@ body{
         text-align: center;
         
     }
-.estudante-titulo
-{ text-align: center 
+.estudante-titulo{
+    text-align: center;
     padding: 50px 0;
 }
