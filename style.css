@@ -53,11 +53,17 @@ body{
     .estudante-icone{
         width: 24px;
     }
- .estudante-div{
-    align-items: center;
- }
-
-.estudante-titulo{
-    text-align: center;
-    padding: 50px 0;
-}
+    .estudante-div{
+        text-align: center;
+        padding: 16px 0;
+    }
+    
+    .estudante-titulo{
+        text-align: center;
+        padding: 50px 0;
+    }
+    
+    .estudante-todos{
+        display: grid;
+        grid-template-columns: 20% 20% 20% 20% 20%;
+    }
