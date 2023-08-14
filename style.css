@@ -11,7 +11,7 @@ body{
 
 .cabeçalho
     {
-        background-color: #ff0000;
+        background-color:#266E46;
     color :rgb(0, 0, 0);
     display:flex;
     justify-content: space-around;
@@ -32,7 +32,7 @@ body{
         
     }
     .escola{
-        background-image: linear-gradient(#266E46,#ffffff1f);
+        background-image: linear-gradient(#ffffff,#ffffff);
         color:rgb(0, 0, 0);
         display: flex;
         justify-content: center;
