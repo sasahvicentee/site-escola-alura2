@@ -65,7 +65,8 @@ body{
     
     
   .estudante-todos{
-    align-items: center;
+    display: flex;
+    justify-items: center;
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%;
   }
